@@ -10,4 +10,4 @@
 9. Write a funtion that calculates greatest Common devisor of two numbers.
 10. write a program to print fibonacci series of n terms where n is input by the user.
     0 1 1 2 3 5 8 13 21....
-11. write a program
+11. write a program to find Factorial of a number using Methods.
